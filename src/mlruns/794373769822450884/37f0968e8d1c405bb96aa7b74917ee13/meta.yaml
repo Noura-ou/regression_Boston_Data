@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/projets/regression_Boston_Data/src/mlruns/794373769822450884/37f0968e8d1c405bb96aa7b74917ee13/artifacts
+end_time: 1686562485460
+entry_point_name: ''
+experiment_id: '794373769822450884'
+lifecycle_stage: active
+run_id: 37f0968e8d1c405bb96aa7b74917ee13
+run_name: LinearRegression
+run_uuid: 37f0968e8d1c405bb96aa7b74917ee13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686562482451
+status: 4
+tags: []
+user_id: apprenant

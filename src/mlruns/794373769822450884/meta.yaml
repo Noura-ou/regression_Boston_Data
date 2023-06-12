@@ -1,0 +1,6 @@
+artifact_location: file:///home/apprenant/Documents/projets/regression_Boston_Data/src/mlruns/794373769822450884
+creation_time: 1686562482387
+experiment_id: '794373769822450884'
+last_update_time: 1686562482387
+lifecycle_stage: active
+name: regression_model
